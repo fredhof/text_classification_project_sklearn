@@ -1,6 +1,6 @@
 # Simple text classification project in Scikit-learn
 
-[Source data set, examples and exercises, from scikit-learn.org](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#exercise-3-cli-text-classification-utility)
+[Source: Skeleton code, examples and exercises, from scikit-learn.org](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#exercise-3-cli-text-classification-utility)
 
 ## Exercise 1: Language identification
 
